@@ -1,4 +1,5 @@
-/*
+/*  IMPORTANT: TO UPLOAD THIS CODE ON ARDUINO, YOU NEED ARDUINO IDE 1.0.6 OR OLDER
+ *
  *  eHealth sensor platform for Arduino and Raspberry from Cooking-hacks.
  *
  *  Description: "The e-Health Sensor Shield allows Arduino and Raspberry Pi 
